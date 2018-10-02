@@ -20,6 +20,7 @@
 
 	<properties>
 		<deployable.module>my-service-name</deployable.module>
+		<deployable.module>my</deployable.module>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
